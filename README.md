@@ -1,2 +1,2 @@
 # draft_website
-dummy website for test purpose
+dummy website for test purpose.
